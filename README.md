@@ -1,1 +1,1 @@
-# maaviacalculator.com
+# maaviacalculator.netlify.app
